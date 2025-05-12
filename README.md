@@ -15,6 +15,7 @@ This project explores methods to improve DeBERTa for the Named Entity Recognitio
 - **Evaluation Metrics**: Accuracy, F1 Score
 
 ## 📁 Project Files
+- Project report: Comprehensive report on our project
 - AIST_3120_Project_without_outputs: Notebook with **outputs removed** (renderable on GitHub)
 - AIST_3120_Project_with_outputs: Notebook with **full outputs**
 Please use the first notebook for quick review on GitHub, and the second one for reviewing results.
